@@ -1,7 +1,3 @@
-# register-login-KL
-
-https://douradoctrl.github.io/register-login-KL/cadastrar.html
-
 # Register and Login Pages
 
 Este repositório contém duas páginas simples desenvolvidas para fins de estudo e prática: uma página de cadastro e outra de login. O objetivo principal foi explorar a criação de interfaces utilizando o framework de CSS **Tailwind CSS**.
@@ -38,5 +34,4 @@ https://douradoctrl.github.io/register-login-KL/cadastrar.html
    ```bash
    git clone https://github.com/DouradoCtrl/register-login-KL.git
    ```
-
 2. Abra o diretório do arquivo no navegador.
